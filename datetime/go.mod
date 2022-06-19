@@ -1,4 +1,4 @@
-module github.com/jmirfield-gwi/FormatUnixTime
+module github.com/jmirfield-gwi/flogo-functions/datetime
 
 go 1.18
 
